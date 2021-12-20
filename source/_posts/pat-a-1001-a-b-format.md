@@ -1,6 +1,7 @@
 ---
 title: PAT 甲级 1001 A+B Format
 tag: [PAT, PAT甲级]
+date: 2021-12-20 10:18:40
 ---
 
 Calculate a+b and output the sum in standard format -- that is, the digits must be separated into groups of three by commas (unless there are less than four digits).

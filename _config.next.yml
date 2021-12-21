@@ -593,7 +593,7 @@ disqusjs:
   api: https://disqus.skk.moe/disqus/
   # api:
   apikey: a37pmuKLuo999S56IcUvAa1XQMIu1lWgUUWyO1Jg9WaJNR7vZdCE85KvEoHjcuTq# Register new application from https://disqus.com/api/applications/
-  shortname: # See: https://disqus.com/admin/settings/general/
+  shortname: shuaixr2000 # See: https://disqus.com/admin/settings/general/
 
 # Changyan
 # For more information: https://changyan.kuaizhan.com
